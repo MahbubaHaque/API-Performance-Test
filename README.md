@@ -1,4 +1,5 @@
 # Random-User-API-Performance-Test
+
 ## Purpose of Performance Testing:
 Features and Functionality supported by a software system are not the only concern. A software application’s performance, like its response time, reliability, resource usage, and scalability, do matter. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks.
 
